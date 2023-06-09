@@ -1,0 +1,61 @@
+body {
+  margin-top: 0px;
+  background-color: blue;
+}
+ .navbar {
+     display: flex;
+     border: solid black 2px; 
+     margin-top: 20px;
+     height: 50px;
+     border-radius: 19px;
+     border-width: ;
+     
+ }
+nav {
+  position: absolute;
+  margin-top: 50;
+}
+nav ul {
+  list-style: none;
+  margin-left: 700px;
+  
+}
+nav ul li {
+  display: inline-block;
+  padding: 10px 10px;
+  font-style:bold;
+
+
+  }
+
+p{
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+.navbar .logo {
+  margin-top: 6px;
+  font-size: 25px;
+  margin-left: 30px;
+
+  }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.column {
+  float: left;
+  width: 200%;
+  gap: 60px;
+  
+  
+}
+.row {
+  margin-left: 0px;
+
+}
+p {
+  font-size: 20px;
+  
+}
+img
