@@ -1,6 +1,6 @@
 body {
   margin-top: 0px;
-  background-color: blue;
+  background: linear-gradient(109.6deg, rgb(72, 200, 160) 11.2%, rgb(32, 40, 48) 91.3%);
 }
  .navbar {
      display: flex;
@@ -59,3 +59,18 @@ p {
   
 }
 img
+.logo {
+  color: aquamarine;
+  height: 50px;
+}
+.About{
+  margin-top: px;
+}
+.footer {
+  background-color: red;
+}
+.lo 
+   {
+    font-family: 'Oswald', sans-serif;
+   }
+  
